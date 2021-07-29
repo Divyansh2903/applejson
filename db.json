@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 132000,
+            "color": "#33505a",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISJ6msIu4AU9_M9ZnJVQVFmfuhfyJjEtbUm3ZK11_8IV9TV25-1uM5wHjiFNwKy99w0mR5Hk&usqp=CAc"
+        },
+        {
+            "id": 2,
+            "name": "iPhone 12",
+            "desc": "Apple iPhone 12th generation",
+            "price": 69000,
+            "color": "#00ac51",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1617135051000"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 99999,
+            "color": "#e0bfae",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
+        },
+        {
+            "id": 4,
+            "name": "Apple Watch Series 6",
+            "desc": "The most advanced Apple Watch yet. In all the latest looks.",
+            "price": 69200,
+            "color": "#544ee4",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MYAX2_VW_34FR+watch-44-alum-blue-nc-6s_VW_34FR_WF_CO_GEO_IN?wid=750&hei=712&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1599004950000%2C1601922538000"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Aipods Pro 1st generation",
+            "price": 25000,
+            "color": "#e3e4e9",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROEs084z65psoo06zYl5R0tUzywOVKVQZzmzqCj3PDP1vVJTWv3gGwGMFENSy4qV4n7sEQjE&usqp=CAc"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 79000,
+            "color": "#f73984",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzUeRQ5uH7E3hpECib8qxdhfHv6SnUGT7mOsew_xiOoqRR7ZpdH-TQ4J6-HuIEfqHimYyPXWH&usqp=CAc"
+        },
+        {
+            "id": 7,
+            "name": "M1 Mac Mini",
+            "desc": "Apple M1 Chip with 8‑Core CPU and 8‑Core GPU 256GB Storage",
+            "price": 62500,
+            "color": "#1c1c1c",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-mini-hero-202011?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1603403462000"
+        },
+        {
+            "id": 8,
+            "name": "M1 iMac",
+            "desc": "iMac 2021 24 inches",
+            "price": 119000,
+            "color": "#7c95eb",
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/imac-24-blue-selection-hero-202104?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1617492405000"
+        }
+    ]
+}
